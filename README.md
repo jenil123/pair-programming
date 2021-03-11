@@ -11,6 +11,8 @@
 
 ### `yarn start` or `npm start`
 
-[X] 
-
+### Todo:
+- [x] Make rooms
+- [ ] Host the site
+- [] Give random question to a room.
 
