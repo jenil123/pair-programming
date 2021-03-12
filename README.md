@@ -1,13 +1,16 @@
-# Getting Started with Create React App
+## This repository contains code for a pair programming app.
+## Using this app one can collaborate with his/her friends on some interesting problem. 
+## This app can also be used as a coding interview practice app.
 
-### Clone the repo.
-### Run `npm install`
-### Go to `server directory` and run `npm install`
+### To run the application on your machine: 
+### 1. Clone the repo.
+### 2. Run `npm install`
+### 3. Go to `server directory` and run `npm install`
 
-### Start the backend server by 
+### 4. Start the backend server by 
 ### `cd server` and `npm start`
 
-### Start the deployment server by: 
+### 5. Start the deployment server by: 
 
 ### `yarn start` or `npm start`
 
