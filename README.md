@@ -15,7 +15,8 @@
 ### `yarn start` or `npm start`
 
 ### Todo:
-- [x] Make rooms
+- [x] Single room app.
+- [x] Multiple rooms
 - [ ] Host the site
 - [ ] Give random question to a room.
 
