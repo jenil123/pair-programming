@@ -10,7 +10,7 @@
 ### 4. Start the backend server by 
 ### `cd server` and `npm start`
 
-### 5. Start the deployment server by: 
+### 5. Start the react app by: 
 
 ### `yarn start` or `npm start`
 
