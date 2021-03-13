@@ -14,9 +14,14 @@
 
 ### `yarn start` or `npm start`
 
+## Feel free to collaborate in the project.
+
 ### Todo:
 - [x] Single room app.
 - [x] Multiple rooms
+- [ ] Persistent storage using mongoDB.
 - [ ] Host the site
 - [ ] Give random question to a room.
+
+
 
