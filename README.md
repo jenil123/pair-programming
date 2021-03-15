@@ -19,8 +19,8 @@
 ### Todo:
 - [x] Single room app.
 - [x] Multiple rooms
-- [ ] Persistent storage using mongoDB.
-- [ ] Host the site
+- [x] Persistent storage using mongoDB/LocalStorage.
+- [x] Host the site
 - [ ] Give random question to a room.
 
 
