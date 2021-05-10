@@ -27,7 +27,7 @@ import 'ace-builds/src-noconflict/snippets/php'
 import io from 'socket.io-client'
 import './Editor.css'
 
-const client = io.connect('http://localhost:8080') // import './App.css'
+const client = io.connect('https://pair-coding-app.herokuapp.com/') // import './App.css'
 //const client = new W3CWebSocket('ws://127.0.0.1:8000')
 
 const Editor = ({ location }) => {
