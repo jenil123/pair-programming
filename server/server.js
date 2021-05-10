@@ -11,7 +11,7 @@ const server = http.createServer(app)
 //const io = socketIo(server)
 const io = socketIo(server, {
   cors: {
-    origin: 'http://localhost:3000',
+    origin: 'https://modest-roentgen-a77130.netlify.app',
     methods: ['GET', 'POST'],
     credentials: true,
   },
