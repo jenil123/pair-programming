@@ -35,14 +35,17 @@
   height: 60%;
   resize: vertical, horizontal;
   font-size: 17px;
+  margin-top:25px;
+  margin-left:95px
 }
-#output {
+#output1 {
   display: flex;
   background: #cccccc52;
   width: 60%;
   height: 60%;
   resize: vertical, horizontal;
   font-size: 17px;
+  margin-top:25px;
 }
 .firstC {
   display: flex;
