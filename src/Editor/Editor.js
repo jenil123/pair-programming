@@ -364,7 +364,7 @@ const Editor = ({ location }) => {
       <button
         style={{ height: 50, width: 100, marginRight: 100, marginTop: 25 }}
         type='submit'
-        className='btn'
+        className='btn1'
         onClick={(e) => onsubmit(e)}
       >
         Submit
