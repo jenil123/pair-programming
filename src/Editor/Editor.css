@@ -84,7 +84,7 @@
   left: 300px;
   top: 680px;
 }
-.btn:hover {
+.btn1:hover {
   color: var(--clr-primary);
   background: var(--clr-primary-light);
 }
