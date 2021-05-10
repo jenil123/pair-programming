@@ -76,6 +76,13 @@
   width: 40%;
   height: 6vh;
   resize: vertical;
+  height: 50px;
+  width: 100px;
+  margin-right: 100px;
+  margin-top: 25px;
+  position: fixed;
+  left: 300px;
+  top: 680px;
 }
 .btn:hover {
   color: var(--clr-primary);
